@@ -210,16 +210,23 @@
   <ItemGroup>
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\index.css" />
+    <Content Include="fonts\Copyright_Licence.txt" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="fonts\Zenzai Itacha Cover.PNG" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="img\defaultbdobg.jpg" />
     <Content Include="img\placeholder150.png" />
     <Content Include="img\placeholder250.png" />
     <Content Include="Scripts\ai.0.22.19-build00125.js" />
     <Content Include="Scripts\ai.0.22.19-build00125.min.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="fonts\Zenzai Itacha.ttf" />
+    <Content Include="fonts\Zenzai Itache.ttf" />
+    <Content Include="fonts\Zenzai Itachi.ttf" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
