@@ -6,7 +6,7 @@ body {
 }
 .jumbotron{
     height: 100vh;
-    background: url("../img/defaultbdobg.jpg") no-repeat center center fixed;
+    background: url("../img/defaultbdobg.jpg") no-repeat center;
     background-size: cover;
     padding-bottom: 20px;
     color: white;
@@ -31,8 +31,8 @@ body {
 }
 
 @-webkit-keyframes bounce {
-  0%       { bottom:5px; }
+  0%       { bottom:5px;  }
   25%, 75% { bottom:15px; }
   50%      { bottom:20px; }
-  100%     {bottom:0;}
+  100%     { bottom:0;    }
 }
